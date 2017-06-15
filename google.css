@@ -101,7 +101,7 @@ body {
   display: grid;
   grid-template-columns: 100px 100px 100px;
   grid-gap: 10px;
-  background-color: #fff;
+  background-color: #800080;
   color: #444;
 }
 
