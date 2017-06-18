@@ -113,3 +113,23 @@ body {
   padding: 20px;
   font-size: 150%;
 }
+---------------------------------------------------------------------------------------------------------------
+body {
+  margin: 40px;
+}
+
+.rapper {
+  display: grid;
+  grid-template-columns: 100px 100px 100px 100px;
+  grid-gap: 10px;
+  background-color: #800080;
+  color: #444;
+}
+
+.ox {
+  background-color: #444;
+  color: #fff;
+  border-radius: 5px;
+  padding: 20px;
+  font-size: 150%;
+}
