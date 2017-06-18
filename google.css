@@ -120,8 +120,8 @@ body {
 
 .rapper {
   display: grid;
-  grid-template-columns: 100px 100px 100px 100px;
-  grid-gap: 10px;
+  grid-template-columns: 25% 25% 25% 25%;
+  grid-gap: 10%;
   background-color: #800080;
   color: #444;
 }
@@ -129,7 +129,7 @@ body {
 .ox {
   background-color: #444;
   color: #fff;
-  border-radius: 5px;
-  padding: 20px;
+  border-radius: 20%;
+  padding: 10%;
   font-size: 150%;
 }
