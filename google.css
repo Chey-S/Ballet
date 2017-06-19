@@ -121,7 +121,7 @@ body {
 .rapper {
   display: grid;
   grid-template-columns: 20% 20% 20% 20%;
-  grid-gap: 2%;
+  grid-gap: 3%;
   background-color: #800080;
   color: #444;
 	width: 37.5%;
