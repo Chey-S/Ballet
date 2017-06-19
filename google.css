@@ -74,7 +74,7 @@ ll {
 
 ll a {
     display: block;
-    color: white;
+    color: black;white
     text-align: center;
     padding: 16px;
     text-decoration: none;
@@ -83,7 +83,7 @@ ll a {
 ll a:hover {
     background-color: red;
 }
-
+#111111
 .img-with-text {
     text-align: justify;
     width: [width of img];
