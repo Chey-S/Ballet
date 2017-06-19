@@ -115,13 +115,13 @@ body {
 }
 ---------------------------------------------------------------------------------------------------------------
 body {
-  margin: 200%;
+  margin: 100%;
 }
 
 .rapper {
   display: grid;
   grid-template-columns: 20% 20% 20% 20%;
-  grid-gap: 30%;
+  grid-gap: 10%;
   background-color: #800080;
   color: #444;
 	width: 37.5%;
