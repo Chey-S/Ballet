@@ -81,7 +81,7 @@ ll a {
 }
 
 ll a:hover {
-    background-color: #111111;
+    background-color: red;
 }
 
 .img-with-text {
