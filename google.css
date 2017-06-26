@@ -63,7 +63,7 @@ al {
 ll {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 16px;
     overflow: hidden;
     background-color: #A9A9A9;
 }
