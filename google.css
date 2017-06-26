@@ -93,7 +93,6 @@ ll a:hover {
     display: block;
     margin: 0 auto;
 }
-
 a:link {
     text-decoration: none;
 }
@@ -111,9 +110,8 @@ a:active {
 }
 
 a:hover, a:active {
-    background-color: red;
+    background-color: clear;
 }
-
 -------------------------------------------------------------------------------------------------------------
 body {
   margin: 0%;
