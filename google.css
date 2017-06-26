@@ -63,7 +63,7 @@ al {
 ll {
     list-style-type: none;
     margin: 0;
-    padding: 16px;
+    padding: 0;
     overflow: hidden;
     background-color: #A9A9A9;
 }
@@ -73,8 +73,8 @@ ll {
 }
 
 ll a {
-    display: grid;
-    color: black;white
+    display: block;
+    color: white;
     text-align: center;
     padding: 16px;
     text-decoration: none;
