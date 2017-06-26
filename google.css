@@ -81,8 +81,8 @@ ll a {
 }
 
 ll a:hover {
-    background-color: #111111;
-}
+    background-color: #00ffff;
+}  #111111
 
 .img-with-text {
     text-align: justify;
@@ -103,7 +103,7 @@ a:visited {
 }
 
 a:hover {
-    text-decoration: #111111;
+    text-decoration: none;
 }
 
 a:active {
