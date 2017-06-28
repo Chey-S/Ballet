@@ -84,6 +84,10 @@ ll a:hover {
     background-color: #111111;
 }
 
+CSL a:hover {
+    background-color: #111111;
+}
+
 .img-with-text {
     text-align: justify;
     width: [width of img];
@@ -111,8 +115,4 @@ a:active {
 
 a:hover, a:active {
     background-color: clear;
-}
-
-CSL a:hover {
-    background-color: #111111;
 }
