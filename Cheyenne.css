@@ -112,3 +112,7 @@ a:active {
 a:hover, a:active {
     background-color: clear;
 }
+
+CSL a:hover {
+    background-color: #111111;
+}
