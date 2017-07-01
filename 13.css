@@ -22,39 +22,35 @@ body {background-color:#40E0D0;}
     background-color: #4CAF50;
     color: white;
     padding: 50%;
-    font-size: 100%;
+    font-size: 50%;
     border: none;
     cursor: pointer;
 }
-
-.dropbtn:hover, .dropbtn:focus {
-    background-color: #3e8e41;
-}
-
 .dropdown {
     position: relative;
     display: inline-block;
 }
-
 .dropdown-content {
     display: none;
     position: absolute;
     background-color: #f9f9f9;
-    min-width: 100%;
-    overflow: auto;
+    min-width: 200%;
     box-shadow: 0% 8% 16% 0% rgba(0,0,0,0.2);
+    z-index: 1;
 }
-
 .dropdown-content a {
     color: black;
-    padding: 96% 128%;
+    padding: 12% 16%;
     text-decoration: none;
     display: block;
 }
-
 .dropdown-content a:hover {background-color: #f1f1f1}
-
-.show {display:block;}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
 
 ul {
     list-style-type: none;
