@@ -21,7 +21,7 @@ body {background-color:#40E0D0;}
 .dropbtn {
     background-color: #4CAF50;
     color: white;
-    padding: 100%;
+    padding: 50%;
     font-size: 100%;
     border: none;
     cursor: pointer;
@@ -40,7 +40,7 @@ body {background-color:#40E0D0;}
     display: none;
     position: absolute;
     background-color: #f9f9f9;
-    min-width: 300%;
+    min-width: 100%;
     overflow: auto;
     box-shadow: 0% 64% 128% 0% rgba(0,0,0,0.2);
 }
