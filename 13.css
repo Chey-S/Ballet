@@ -25,7 +25,7 @@ body {background-color:#40E0D0;}
     font-size: 16px;
     border: none;
     cursor: pointer;
-	 grid-template-columns: 100px 100px 100px;
+	 
 }
 
 .dropbtn:hover, .dropbtn:focus {
@@ -44,6 +44,7 @@ body {background-color:#40E0D0;}
     min-width: 160px;
     overflow: auto;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+grid-template-columns: 100px 100px 100px;
 }
 
 .dropdown-content a {
