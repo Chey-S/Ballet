@@ -29,9 +29,9 @@ body {background-color:#40E0D0;}
 }
 
 .dropbtn:hover, .dropbtn:focus {
-    background-color: #FFFF00;
+    background-color: #3e8e41;
 }
-#3e8e41
+
 .dropdown {
     position: relative;
     display: inline-block;
@@ -61,6 +61,10 @@ grid-template-columns: 100px 100px 100px;
 
 .show {display:block;}
 
+li a:hover {
+    background-color: #FFFF00;
+}
+#111111
 ul {
     list-style-type: none;
     margin: 0;
