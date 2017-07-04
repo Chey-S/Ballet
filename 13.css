@@ -48,7 +48,7 @@ body {background-color:#40E0D0;}
     display: block;
 }
 
-.dropdown-content a:hover {background-color: #f1f1f1}
+.dropdown-content a:hover {background-color: #FFFF00}
 
 .dropdown:hover .dropdown-content {
     display: block;
