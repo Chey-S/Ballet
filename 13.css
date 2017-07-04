@@ -59,6 +59,10 @@ body {background-color:#40E0D0;}
 
 .show {display:block;}
 
+		div1 {
+    text-align: center;
+}
+
 div2 a:hover {
     background-color: #FFFF00;
 }
